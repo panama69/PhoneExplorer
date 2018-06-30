@@ -2,6 +2,7 @@
 
 VbWindow("Form2").ActiveX("ActiveX").ActiveX("Toolbar").WinToolbar("ToolbarWindow32").Press 1 @@ hightlight id_;_263986_;_script infofile_;_ZIP::ssf1.xml_;_
 wait(5) @@ hightlight id_;_263974_;_script infofile_;_ZIP::ssf2.xml_;_
+
 VbWindow("Form2").ActiveX("ActiveX").ActiveX("ActiveX").VirtualTable("table").ActivateCell 2,1
 VbWindow("Form2").VbWindow("fvCardEdit").VbEdit("Text1(1)").Set "frank" @@ hightlight id_;_263974_;_script infofile_;_ZIP::ssf2.xml_;_
 VbWindow("Form2").VbWindow("fvCardEdit").VbButton("OK").Type  micReturn 
